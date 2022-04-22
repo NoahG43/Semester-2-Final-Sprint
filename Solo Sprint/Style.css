@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  color: aqua;
+  background-color: blueviolet;
+}
+
+p {
+  text-align: center;
+  color: blue;
+  background-color: cornflowerblue;
+}
+
+.background {
+  justify-content: center;
+}
+
+#button {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#img {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+#text {
+  display: none;
+  color: black;
+  background-color: white;
+}
